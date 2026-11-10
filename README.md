@@ -13,7 +13,6 @@ I enjoy building secure backend systems and turning security concepts into worki
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -35,6 +34,9 @@ I enjoy building secure backend systems and turning security concepts into worki
 
 ---
 
-### 📫 Contact
+### 🏆 Certifications & Events
 
-Feel free to connect with me on LinkedIn — link in my profile.
+| | Title | Issuer | Date |
+|---|-------|--------|------|
+| 🎓 | **Odoo Technical Bootcamp** (8 hours) — built the [Real Estate module](https://github.com/Sevvalgungorr/odoo19-real-estate) | Odoo | Oct 2026 |
+| 🛡️ | **Hands-on Purple Team Training** — combined red & blue team
