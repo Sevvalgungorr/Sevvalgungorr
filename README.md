@@ -39,4 +39,11 @@ I enjoy building secure backend systems and turning security concepts into worki
 | | Title | Issuer | Date |
 |---|-------|--------|------|
 | 🎓 | **Odoo Technical Bootcamp** (8 hours) — built the [Real Estate module](https://github.com/Sevvalgungorr/odoo19-real-estate) | Odoo | Oct 2026 |
-| 🛡️ | **Hands-on Purple Team Training** — combined red & blue team
+| 🛡️ | **Hands-on Purple Team Training** — combined red & blue team techniques, *Cyber Security Training Series – 5* in collaboration with TOBB ETÜ | Public Sector Cyber Security Association (Kamu Siber Güvenlik Derneği) | Jul 2026 |
+| 🤖 | **SAYZEK Summit** — Defence Industry & Artificial Intelligence Summit (participant) | Kırıkkale University Software Development Community | Apr 2026 |
+
+---
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C5%9Fevval-g%C3%BCng%C3%B6r-b7686a3b5/)
